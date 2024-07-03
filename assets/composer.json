@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "app/"
+    }
+  },
+  "require": {
+    "jbboehr/dnsbl": "^0.1.0",
+    "jaybizzle/crawler-detect": "^1.2"
+  }
+}

@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>learns-to-trade.com</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="../assets/img/2023/06/10/1688991390379-647f023e-ec52-4503-986e-53d226d83aa6.png"
+    />
+    <style>
+      :root {
+        -moz-tab-size: 4;
+        -o-tab-size: 4;
+        tab-size: 4;
+      }
+      html {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica,
+          Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+      }
+      strong {
+        font-weight: bolder;
+      }
+      button {
+        font-family: inherit;
+        font-size: 100%;
+        line-height: 1.15;
+        margin: 0;
+      }
+      button {
+        text-transform: none;
+      }
+      [type="button"],
+      button {
+        -webkit-appearance: button;
+      }
+      h1,
+      p {
+        margin: 0;
+      }
+      button {
+        background-color: transparent;
+        background-image: none;
+      }
+      button:focus {
+        outline: 1px dotted;
+        outline: 5px auto -webkit-focus-ring-color;
+      }
+      html {
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+          Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+        line-height: 1.5;
+      }
+      body {
+        font-family: inherit;
+        line-height: inherit;
+      }
+      * {
+        box-sizing: border-box;
+        border: 0 solid #e4e4e7;
+      }
+      button {
+        cursor: pointer;
+      }
+      h1 {
+        font-size: inherit;
+        font-weight: inherit;
+      }
+      a {
+        color: inherit;
+        text-decoration: inherit;
+      }
+      button {
+        padding: 0;
+        line-height: inherit;
+        color: inherit;
+      }
+      object {
+        display: block;
+        vertical-align: middle;
+      }
+      .container {
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 1rem;
+        padding-left: 1rem;
+      }
+      @media (min-width: 640px) {
+        .container {
+          max-width: 640px;
+        }
+      }
+      @media (min-width: 768px) {
+        .container {
+          max-width: 768px;
+        }
+      }
+      @media (min-width: 1024px) {
+        .container {
+          max-width: 1024px;
+        }
+      }
+      @media (min-width: 1280px) {
+        .container {
+          max-width: 1280px;
+        }
+      }
+      @media (min-width: 1536px) {
+        .container {
+          max-width: 1536px;
+        }
+      }
+      .prose {
+        color: #3f3f46;
+        max-width: 65ch;
+      }
+      .prose [class~="lead"] {
+        color: #52525b;
+        font-size: 1.25em;
+        line-height: 1.6;
+        margin-top: 1.2em;
+        margin-bottom: 1.2em;
+      }
+      .prose a {
+        color: #18181b;
+        text-decoration: underline;
+        font-weight: 500;
+      }
+      .prose strong {
+        color: #18181b;
+        font-weight: 600;
+      }
+      .prose h1 {
+        color: #18181b;
+        font-weight: 800;
+        font-size: 2.25em;
+        margin-top: 0;
+        margin-bottom: 0.8888889em;
+        line-height: 1.1111111;
+      }
+      .prose {
+        font-size: 1rem;
+        line-height: 1.75;
+      }
+      .prose p {
+        margin-top: 1.25em;
+        margin-bottom: 1.25em;
+      }
+      .prose > :first-child {
+        margin-top: 0;
+      }
+      .prose > :last-child {
+        margin-bottom: 0;
+      }
+      .prose-sm {
+        font-size: 0.875rem;
+        line-height: 1.7142857;
+      }
+      .prose-sm p {
+        margin-top: 1.1428571em;
+        margin-bottom: 1.1428571em;
+      }
+      .prose-sm [class~="lead"] {
+        font-size: 1.2857143em;
+        line-height: 1.5555556;
+        margin-top: 0.8888889em;
+        margin-bottom: 0.8888889em;
+      }
+      .prose-sm h1 {
+        font-size: 2.1428571em;
+        margin-top: 0;
+        margin-bottom: 0.8em;
+        line-height: 1.2;
+      }
+      .prose-sm > :first-child {
+        margin-top: 0;
+      }
+      .prose-sm > :last-child {
+        margin-bottom: 0;
+      }
+      .prose-indigo a {
+        color: #4f46e5;
+      }
+      .bg-white {
+        --tw-bg-opacity: 1;
+        background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+      }
+      .bg-warmGray-100 {
+        --tw-bg-opacity: 1;
+        background-color: rgba(245, 245, 244, var(--tw-bg-opacity));
+      }
+      .bg-warmGray-200 {
+        --tw-bg-opacity: 1;
+        background-color: rgba(231, 229, 228, var(--tw-bg-opacity));
+      }
+      .flex {
+        display: flex;
+      }
+      .flex-col {
+        flex-direction: column;
+      }
+      .flex-1 {
+        flex: 1 1 0%;
+      }
+      .font-sans {
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+          Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+      }
+      .font-bold {
+        font-weight: 700;
+      }
+      .h-0 {
+        height: 0;
+      }
+      .text-xl {
+        line-height: 1.75rem;
+      }
+      .text-xl {
+        font-size: 1.25rem;
+      }
+      .mr-4 {
+        margin-right: 1rem;
+      }
+      .max-w-none {
+        max-width: none;
+      }
+      .max-w-7xl {
+        max-width: 80rem;
+      }
+      .min-h-screen {
+        min-height: 100vh;
+      }
+      .py-4 {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+      }
+      .py-8 {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+      }
+      .pt-2 {
+        padding-top: 0.5rem;
+      }
+      .relative {
+        position: relative;
+      }
+      .right-0 {
+        right: 0;
+      }
+      .left-0 {
+        left: 0;
+      }
+      .top-10 {
+        top: 2.5rem;
+      }
+      .-top-3 {
+        top: -0.75rem;
+      }
+      * {
+        --tw-shadow: 0 0 transparent;
+      }
+      * {
+        --tw-ring-inset: var(--tw-empty, /*!*/ /*!*/);
+        --tw-ring-offset-width: 0px;
+        --tw-ring-offset-color: #fff;
+        --tw-ring-color: rgba(59, 130, 246, 0.5);
+        --tw-ring-offset-shadow: 0 0 transparent;
+        --tw-ring-shadow: 0 0 transparent;
+      }
+      .text-left {
+        text-align: left;
+      }
+      .text-center {
+        text-align: center;
+      }
+      .text-white {
+        --tw-text-opacity: 1;
+        color: rgba(255, 255, 255, var(--tw-text-opacity));
+      }
+      .text-warmGray-500 {
+        --tw-text-opacity: 1;
+        color: rgba(120, 113, 108, var(--tw-text-opacity));
+      }
+      .antialiased {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      .invisible {
+        visibility: hidden;
+      }
+      .scale-50 {
+        --tw-scale-x: 0.5;
+        --tw-scale-y: 0.5;
+      }
+      .scale-100 {
+        --tw-scale-x: 1;
+        --tw-scale-y: 1;
+      }
+      .rotate-180 {
+        --tw-rotate: 180deg;
+      }
+      .-translate-y-full {
+        --tw-translate-y: -100%;
+      }
+      @-webkit-keyframes spin {
+        to {
+          transform: rotate(1turn);
+        }
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(1turn);
+        }
+      }
+      @-webkit-keyframes ping {
+        to {
+          transform: scale(2);
+          opacity: 0;
+        }
+      }
+      @keyframes ping {
+        75%,
+        to {
+          transform: scale(2);
+          opacity: 0;
+        }
+      }
+      @keyframes pulse {
+        50% {
+          opacity: 0.5;
+        }
+      }
+      @-webkit-keyframes bounce {
+        to {
+          transform: translateY(-25%);
+          -webkit-animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+          animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+        }
+      }
+      @keyframes bounce {
+        0%,
+        to {
+          transform: translateY(-25%);
+          -webkit-animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+          animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+        }
+        50% {
+          transform: none;
+          -webkit-animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+          animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+        }
+      }
+      @-webkit-keyframes marquee {
+        to {
+          transform: translate(-100%);
+        }
+      }
+      @keyframes marquee {
+        0% {
+          transform: translate(0);
+        }
+        to {
+          transform: translate(-100%);
+        }
+      }
+      @-webkit-keyframes marquee2 {
+        to {
+          transform: translateX(0);
+        }
+      }
+      @keyframes marquee2 {
+        0% {
+          transform: translateX(100%);
+        }
+        to {
+          transform: translateX(0);
+        }
+      }
+      @-webkit-keyframes flip {
+        to {
+          transform: perspective(400px);
+          -webkit-animation-timing-function: ease-in;
+          animation-timing-function: ease-in;
+        }
+      }
+      @keyframes flip {
+        0% {
+          transform: perspective(400px) rotateY(-1turn);
+        }
+        0%,
+        40% {
+          -webkit-animation-timing-function: ease-out;
+          animation-timing-function: ease-out;
+        }
+        40% {
+          transform: perspective(400px) translateZ(150px) rotateY(-190deg);
+        }
+        50% {
+          transform: perspective(400px) translateZ(150px) rotateY(-170deg);
+        }
+        50%,
+        80% {
+          -webkit-animation-timing-function: ease-in;
+          animation-timing-function: ease-in;
+        }
+        80% {
+          transform: perspective(400px) scale3d(0.95, 0.95, 0.95);
+        }
+        to {
+          transform: perspective(400px);
+          -webkit-animation-timing-function: ease-in;
+          animation-timing-function: ease-in;
+        }
+      }
+      @-webkit-keyframes growshrink {
+        to {
+          transform: scale(1.1);
+        }
+      }
+      @keyframes growshrink {
+        0% {
+          transform: scale(1);
+        }
+        to {
+          transform: scale(1.1);
+        }
+      }
+      @-webkit-keyframes slideBackAndForth {
+        to {
+          left: 0;
+        }
+      }
+      @keyframes slideBackAndForth {
+        0% {
+          left: 0;
+        }
+        50% {
+          left: -500px;
+        }
+        to {
+          left: 0;
+        }
+      }
+      .header {
+        background-color: #330867;
+        background-image: linear-gradient(
+          139.6deg,
+          #330867 26.2%,
+          #30cfd0 116.5%
+        );
+      }
+      @media (min-width: 640px) {
+        .sm\:prose {
+          color: #3f3f46;
+          max-width: 65ch;
+        }
+        .sm\:prose [class~="lead"] {
+          color: #52525b;
+          font-size: 1.25em;
+          line-height: 1.6;
+          margin-top: 1.2em;
+          margin-bottom: 1.2em;
+        }
+        .sm\:prose a {
+          color: #18181b;
+          text-decoration: underline;
+          font-weight: 500;
+        }
+        .sm\:prose strong {
+          color: #18181b;
+          font-weight: 600;
+        }
+        .sm\:prose h1 {
+          color: #18181b;
+          font-weight: 800;
+          font-size: 2.25em;
+          margin-top: 0;
+          margin-bottom: 0.8888889em;
+          line-height: 1.1111111;
+        }
+        .sm\:prose {
+          font-size: 1rem;
+          line-height: 1.75;
+        }
+        .sm\:prose p {
+          margin-top: 1.25em;
+          margin-bottom: 1.25em;
+        }
+        .sm\:prose > :first-child {
+          margin-top: 0;
+        }
+        .sm\:prose > :last-child {
+          margin-bottom: 0;
+        }
+        .sm\:max-w-none {
+          max-width: none;
+        }
+      }
+      @media (min-width: 1024px) {
+        .lg\:py-8 {
+          padding-top: 2rem;
+          padding-bottom: 2rem;
+        }
+        .lg\:px-10 {
+          padding-left: 2.5rem;
+          padding-right: 2.5rem;
+        }
+        .lg\:pt-10 {
+          padding-top: 2.5rem;
+        }
+        .lg\:pb-20 {
+          padding-bottom: 5rem;
+        }
+      }
+      :root {
+        --color-primary: ;
+        --color-secondary: ;
+      }
+    </style>
+  </head>
+  <body id="body" class="font-sans bg-white">
+    <div class="relative flex flex-col min-h-screen antialiased">
+      <header class="header">
+        <div class="container lg:px-10 max-w-7xl">
+          <div class="py-4">
+            <div class="text-center">
+              <img
+                src="../images/logo.png"
+                alt="learns-to-trade.com logo"
+                title="learns-to-trade.com"
+                class="object-contain object-left w-40 h-8"
+                width="160"
+                height="32"
+              />
+            </div>
+          </div>
+        </div>
+      </header>
+      <main class="flex flex-1 bg-warmGray-100">
+        <div
+          class="container flex-1 py-8 bg-white lg:pb-20 lg:pt-10 lg:px-10 max-w-7xl"
+        >
+          <div class="prose-sm prose prose-indigo sm:max-w-none sm:prose">
+            <h1>Disclaimer</h1>
+            <p>
+              <strong
+                >How we work, how we make money, risk warnings and
+                disclaimers</strong
+              >
+            </p>
+            <p><em>Can you give me advice?</em></p>
+            <p>
+              Sorry, we can&rsquo;t give you advice on which broker to use, when
+              to invest, how much to invest or what to invest in. Please read
+              our risk warning and disclaimer (below). If you are still unsure
+              after using our site it would be a good idea to get independent
+              advice from a qualified professional financial advisor.
+            </p>
+            <p><em>How do you make money?</em></p>
+            <p>
+              Our site is free for you to use. Instead of charging you to use
+              our site, we make money from the brokers and business partners
+              with whom we have commercial arrangements. This can happen in a
+              number of ways; for example when you click a button and go through
+              to a broker&rsquo;s website, or when you open an account with that
+              broker.
+            </p>
+            <p>
+              Our broker lists and comparisons may not list or compare all
+              relevant brokers, exchanges or investments and are by default
+              ordered by reference to our commercial agreements unless otherwise
+              stated. We may list products or brokers that we don&rsquo;t make
+              money from, and you can identify them because they will appear
+              without a &ldquo;button&rdquo;, or in another colour.
+            </p>
+            <p>
+              Brokers and other service providers may also pay us to advertise
+              on our site, or to feature in our emails, know how guides and/or
+              articles.
+            </p>
+            <p>
+              By using our site, you agree to us receiving and retaining fees
+              from our business partners.
+            </p>
+            <p><em>How do you use my data?</em></p>
+            <p>Please see our data privacy policy.</p>
+            <p><em>Would you like to know more?</em></p>
+            <p>
+              If you would like more information or have any questions,
+              don&rsquo;t hesitate to get in touch by email at
+              <a
+                href="/cdn-cgi/l/email-protection"
+                class="__cf_email__"
+                data-cfemail="9bf2f5fdf4dbf7fefae9f5e8b6eff4b6efe9fafffeb5f8f4f6"
+                >[email&#160;protected]</a
+              >
+            </p>
+            <p><em>Risk Warning</em></p>
+            <p>
+              Investing is speculative and carries a high level of risk. Each
+              investment is unique and involves unique risks.
+            </p>
+            <p>
+              When Investing in<strong>
+                stocks and other negotiable securities </strong
+              >your capital is at risk.
+            </p>
+            <p>
+              <strong>Stocks and Shares </strong>can fluctuate widely in price
+              and are, therefore, not appropriate for all investors. Investing
+              in stocks may not be supervised under your domestic regulatory
+              framework. Your capital is at risk.
+            </p>
+            <p>
+              <strong>Stocks &amp; Shares are </strong>instruments and come with
+              a high risk of losing money rapidly due to leverage. You should
+              consider whether you understand how an investment works and
+              whether you can afford to take the high risk of losing your money.
+              Investing may not be legal in your country of residence. Please
+              check the legality of your chosen investment before investing.
+            </p>
+            <p>
+              In all cases, past performance is not an indication of future
+              results. Investing history presented may be less than 5 years old
+              unless otherwise stated and may not suffice as a basis for
+              investment decisions. Prices may go down as well as up, prices can
+              fluctuate widely and you may lose all of or more than the amount
+              you invest. Investing is not suitable for everyone, so please
+              ensure that you have fully understood the risks and legalities
+              involved. If you are unsure, seek independent financial, legal,
+              tax and/or accounting advice. This website does not provide
+              investment, financial, legal, tax or accounting advice.
+            </p>
+            <p>
+              Be aware that your use of this website and/or its features,
+              investing in a particular investment and/or entering into a
+              relationship with a particular broker or exchange may not be
+              compliant with the laws, regulations or other legal requirements
+              of your country or state of residence. This site is not intended
+              for use in jurisdictions in which the investments described are
+              prohibited and should only be used by such persons and in such
+              ways as are legally permitted.
+            </p>
+            <p>
+              Not all brokers and exchanges referred to on this site will be
+              regulated in your country or state of residence and your
+              investments may not qualify for investor protection. Please
+              conduct your own due diligence.
+            </p>
+            <p>
+              We do not and cannot guarantee that your use of this website
+              and/or any of its features will generate profits. All opinions,
+              news, reviews, research, analysis, prices, or other information
+              contained on or provided via this site (including in calls,
+              emails, LiveChat, SMS or other forms of communication) are
+              provided on an &ldquo;as is&rdquo; basis as general market
+              commentary and/or expressions of opinion only. Information may not
+              be complete, accurate or up to date and may not be suitable for
+              every individual, nor be a suitable basis for an investment
+              decision.
+            </p>
+            <p><strong>Disclaimer</strong></p>
+            <p>
+              Without prejudice to this website&rsquo;s terms and conditions of
+              use, by using this website you acknowledge and agree to the
+              following.
+            </p>
+            <p>
+              You use this website and the information provided on or through
+              this website and/or its features (including information provided
+              in calls, emails, LiveChat, SMS or other forms of communication)
+              at your own risk. To the extent permitted by applicable law, this
+              site, its owners, operators and affiliates and its and their
+              respective employees and officers shall not be liable for any
+              cost, loss, liability or expense that you or anyone else incurs as
+              a result of using or relying on (or being unable to use or rely
+              on) this website and/or any of its related features, entering into
+              a relationship with any broker or exchange, or investing in any
+              investment (including, for the avoidance of doubt, but without
+              limitation, direct, indirect, consequential and/or economic
+              losses).
+            </p>
+            <p>
+              No representation, warranty, undertaking, assurance or guarantee
+              (express or implied) is made or given as to the availability,
+              adequacy, accuracy, completeness, reasonableness or
+              appropriateness of any of the information or opinions provided or
+              expressed on or through this site and/or its features (including
+              in calls, emails, LiveChat, SMS or other forms of communication
+              (if applicable). The content and features of this website may be
+              corrected or modified at any time, without advance notice or
+              reason. There is no obligation to notify you of any corrections or
+              modifications.
+            </p>
+            <p>
+              Please be aware that some of the links on this site may direct you
+              to the websites of third parties, some of whom are marketing
+              affiliates and/or business partners of this site and/or its
+              owners, operators and affiliates. Notwithstanding any such
+              relationship, no responsibility is accepted for the conduct of any
+              third party nor the content or functionality of their websites or
+              applications. A hyperlink to or positive reference to or review of
+              a broker or exchange should not be understood to be an endorsement
+              of that broker or exchange&rsquo;s products or services. Investing
+              with or through a broker or exchange will be subject to that
+              broker&rsquo;s or exchange&rsquo;s terms of use or business and
+              fees / commissions may be payable. Please ensure that you have
+              read and understood the terms before investing.
+            </p>
+            <p>
+              All content on this website belongs to learns-to-trade.com, unless
+              stated otherwise. Whenever shared or adapted the content must be
+              accompanied with appropriate credit to this site with links or
+              hypertexts leading to this site. All third-party owned content
+              appearing on this website is subject to the rights of their
+              respective owners and applicable use and redistribution rules.
+            </p>
+          </div>
+        </div>
+      </main>
+      <footer class="bg-warmGray-200">
+        <div class="container lg:py-8 lg:px-10 max-w-7xl">
+          <div class="prose-sm prose text-warmGray-500 max-w-none">
+            <div class="pt-2 general-footer-disclaimer">
+              <p>
+                <a class="mr-4" href="../terms-conditions/index.html">Terms and Conditions</a>
+                <a class="mr-4" href="../privacy-policy/index.html">Privacy Policy</a>
+                <a class="mr-4" href="../disclaimer/index.html">Disclaimer</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

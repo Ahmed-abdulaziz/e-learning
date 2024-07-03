@@ -1,0 +1,64 @@
+[29-Jul-2022 16:33:55 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:33:55 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:33:55 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:33:55 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:34:07 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:34:07 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:34:07 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:34:07 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:35:28 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:35:28 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:35:28 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:35:28 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:35:54 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:35:54 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:35:54 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:35:54 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 226
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 2
+[29-Jul-2022 16:45:18 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 2
+[29-Jul-2022 16:45:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 10
+[29-Jul-2022 16:45:50 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:50 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:50 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:45:50 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:45:57 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:57 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 2
+[29-Jul-2022 16:45:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 33
+[29-Jul-2022 16:46:35 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:46:35 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:46:37 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:46:37 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/index.php on line 199
+[29-Jul-2022 16:47:12 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 2
+[29-Jul-2022 16:47:12 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 2
+[29-Jul-2022 16:47:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ox3qukjq/public_html/ezy_studies/student/parent/allsubjects2.php on line 10
+[29-Jul-2022 16:47:31 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:47:31 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:07 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:07 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:11 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:11 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:52 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:48:52 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:50:45 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:50:45 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/navbar.php on line 2
+[29-Jul-2022 16:50:45 UTC] PHP Warning:  include_once(..ooter.php): failed to open stream: No such file or directory in /home/ox3qukjq/public_html/ezy_studies/student/parent/Chapters.php on line 191
+[29-Jul-2022 16:50:45 UTC] PHP Warning:  include_once(): Failed opening '..ooter.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ox3qukjq/public_html/ezy_studies/student/parent/Chapters.php on line 191
+[11-Aug-2023 01:16:11 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/parent/index.php on line 199
+[11-Aug-2023 01:16:11 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/parent/index.php on line 199
+[11-Aug-2023 01:16:32 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/parent/index.php on line 199
+[11-Aug-2023 01:16:32 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/parent/index.php on line 199
+[04-Sep-2023 13:57:08 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/parent/index.php on line 199
+[04-Sep-2023 13:57:08 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/parent/index.php on line 199

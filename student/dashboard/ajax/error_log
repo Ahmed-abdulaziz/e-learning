@@ -1,0 +1,1057 @@
+[25-Mar-2021 12:04:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'degree' at row 1 in /home/aslespremiers/public_html/dashboard/ajax/savehw.php:25
+Stack trace:
+#0 /home/aslespremiers/public_html/dashboard/ajax/savehw.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aslespremiers/public_html/dashboard/ajax/savehw.php on line 25
+[25-Mar-2021 12:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'degree' at row 1 in /home/aslespremiers/public_html/dashboard/ajax/savehw.php:25
+Stack trace:
+#0 /home/aslespremiers/public_html/dashboard/ajax/savehw.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aslespremiers/public_html/dashboard/ajax/savehw.php on line 25
+[25-Mar-2021 12:06:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'degree' at row 1 in /home/aslespremiers/public_html/dashboard/ajax/savehw.php:25
+Stack trace:
+#0 /home/aslespremiers/public_html/dashboard/ajax/savehw.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aslespremiers/public_html/dashboard/ajax/savehw.php on line 25
+[25-Mar-2021 12:06:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'degree' at row 1 in /home/aslespremiers/public_html/dashboard/ajax/savehw.php:25
+Stack trace:
+#0 /home/aslespremiers/public_html/dashboard/ajax/savehw.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aslespremiers/public_html/dashboard/ajax/savehw.php on line 25
+[27-Mar-2023 14:38:06 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:38:06 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 37
+[27-Mar-2023 14:38:52 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:38:52 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 37
+[27-Mar-2023 14:39:17 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:39:17 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 37
+[27-Mar-2023 14:39:55 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:39:55 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 37
+[27-Mar-2023 14:41:02 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:41:02 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:41:58 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:41:58 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:42:03 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:42:03 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:44:13 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:44:13 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:44:39 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:44:39 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:45:33 UTC] PHP Warning:  include_once(../../../main/initial.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:45:33 UTC] PHP Warning:  include_once(): Failed opening '../../../main/initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 4
+[27-Mar-2023 14:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 36
+[27-Mar-2023 14:50:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0, 10' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 45
+[27-Mar-2023 14:52:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0, 10' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 45
+[27-Mar-2023 21:11:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:11:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:13:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:13:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:13:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:13:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: NaN in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 21:15:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:40
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 40
+[27-Mar-2023 21:15:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:40
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 40
+[27-Mar-2023 21:16:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:40
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 40
+[27-Mar-2023 23:28:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:00 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:00 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[27-Mar-2023 23:28:11 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:11 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:11 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 6
+[27-Mar-2023 23:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 46
+[28-Mar-2023 04:32:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?LIMIT 0, 10' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:54
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(54): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 54
+[28-Mar-2023 14:27:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc' at line 13 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 14:27:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc' at line 13 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 14:48:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:56
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 56
+[28-Mar-2023 18:31:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?
+ AND username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR p...' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:56
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(56): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 56
+[28-Mar-2023 18:31:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phone...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 18:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phone...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 18:33:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phone...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 18:33:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND username LIKE "%n%" 
+ OR email LIKE "%n%" 
+ OR name LIKE "%n%" 
+ OR ph...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 18:34:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND username LIKE "%nd%" 
+ OR email LIKE "%nd%" 
+ OR name LIKE "%nd%" 
+ OR...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 18:35:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phone LIKE "%%" 
+...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[28-Mar-2023 20:31:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:59
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(59): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 59
+[28-Mar-2023 20:53:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:59
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(59): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 59
+[30-Mar-2023 20:50:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[30-Mar-2023 23:56:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 74
+[30-Mar-2023 23:56:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 74
+[31-Mar-2023 10:21:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 91
+[01-Apr-2023 10:32:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[01-Apr-2023 10:33:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[02-Apr-2023 11:29:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[02-Apr-2023 11:29:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[03-Apr-2023 06:30:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[03-Apr-2023 06:30:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[03-Apr-2023 06:30:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[25-Apr-2023 07:07:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[19-May-2023 15:42:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[25-May-2023 11:58:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[25-May-2023 11:58:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[29-May-2023 12:47:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 86
+[29-May-2023 12:49:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 86
+[29-May-2023 17:02:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:50
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(50): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 50
+[05-Jun-2023 07:05:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8388616 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 86
+[20-Jul-2023 17:43:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'name asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[20-Jul-2023 17:43:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'name desc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[20-Jul-2023 17:43:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[20-Jul-2023 17:44:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[20-Jul-2023 17:44:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[21-Jul-2023 12:49:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 105
+[21-Jul-2023 12:50:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 105
+[21-Jul-2023 12:52:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 106
+[21-Jul-2023 12:53:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 106
+[21-Jul-2023 12:54:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 105
+[21-Jul-2023 12:59:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR degree LIKE "%%" 
+ OR numofquestion LIKE "%%" 
+O...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 45
+[21-Jul-2023 12:59:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR degree LIKE "%%" 
+ OR numofquestion LIKE "%%" 
+O...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 45
+[21-Jul-2023 13:02:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 45
+[21-Jul-2023 13:04:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 45
+[21-Jul-2023 13:05:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:45
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 45
+[21-Jul-2023 13:06:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[21-Jul-2023 13:07:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[21-Jul-2023 13:08:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[21-Jul-2023 13:09:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%"...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:47
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(47): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 47
+[21-Jul-2023 13:24:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 86
+[27-Jul-2023 21:26:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:93
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 93
+[27-Jul-2023 21:27:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:93
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 93
+[27-Jul-2023 21:30:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:93
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 93
+[27-Jul-2023 21:30:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:93
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 93
+[27-Jul-2023 21:32:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:92
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(92): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 92
+[27-Jul-2023 21:34:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:93
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 93
+[27-Jul-2023 21:34:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'en' in 'where clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:81
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(81): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 81
+[30-Jul-2023 09:48:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 44
+[01-Aug-2023 01:16:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 169
+[01-Aug-2023 01:41:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 166
+[01-Aug-2023 09:30:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 44
+[10-Aug-2023 21:17:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:59
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(59): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 59
+[18-Aug-2023 06:16:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 44
+[19-Aug-2023 16:15:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR pho...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:56
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(56): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 56
+[19-Aug-2023 16:16:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 13
+[19-Aug-2023 16:20:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR pho...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:58
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 58
+[21-Aug-2023 00:29:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:58
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 58
+[21-Aug-2023 00:34:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 175
+[21-Aug-2023 00:35:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 169
+[24-Aug-2023 08:39:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:194
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(194): PDOStatement->execute()
+#1 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(202): count_all_data(Object(PDO))
+#2 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 194
+[24-Aug-2023 08:39:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:194
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(194): PDOStatement->execute()
+#1 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(202): count_all_data(Object(PDO))
+#2 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 194
+[24-Aug-2023 08:55:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:81
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(81): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 81
+[24-Aug-2023 08:57:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:82
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 82
+[24-Aug-2023 08:58:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:82
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 82
+[03-Sep-2023 18:30:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc' at line 12 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:83
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(83): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 83
+[08-Sep-2023 09:19:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:83
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(83): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 83
+[27-Sep-2023 16:42:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 108
+[30-Sep-2023 13:31:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'time' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[08-Oct-2023 14:49:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[09-Oct-2023 09:47:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[10-Oct-2023 09:31:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[12-Oct-2023 13:05:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (name LIKE "%%" 
+ OR min_degree LIKE "%%" 
+ OR numofquestion LIKE "%%" ...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[13-Oct-2023 12:33:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[14-Oct-2023 08:31:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[14-Oct-2023 08:31:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php:46
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_exams.php on line 46
+[12-Nov-2023 09:45:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 09:45:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 09:45:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 09:45:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 09:45:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 10:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 10:33:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 10:37:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 10:39:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 10:40:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:27:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:28:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:29:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:29:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:30:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 14:32:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 15:13:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phon...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:78
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(78): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 78
+[12-Nov-2023 16:08:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (username LIKE "%%" 
+ OR email LIKE "%%" 
+ OR name LIKE "%%" 
+ OR phone L...' at line 2 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:34:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:35:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:35:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:35:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:36:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:36:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:36:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:36:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:46:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[12-Nov-2023 20:46:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[13-Nov-2023 11:07:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[13-Nov-2023 11:08:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[13-Nov-2023 14:59:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc' at line 12 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[13-Nov-2023 14:59:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc' at line 12 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[16-Nov-2023 14:17:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[16-Nov-2023 14:18:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[16-Nov-2023 14:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[16-Nov-2023 14:18:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[19-Nov-2023 18:54:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[19-Nov-2023 18:55:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[19-Nov-2023 18:55:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[19-Nov-2023 18:55:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Nov-2023 12:22:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[22-Nov-2023 15:15:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[22-Nov-2023 15:20:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[27-Nov-2023 12:23:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[27-Nov-2023 13:56:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[29-Nov-2023 13:44:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:20:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:23:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:23:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:24:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:24:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:24:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 12:24:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 13:00:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[30-Nov-2023 13:10:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[10-Dec-2023 18:07:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[10-Dec-2023 18:08:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[10-Dec-2023 18:08:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'controls' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:07:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[20-Dec-2023 13:08:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[21-Dec-2023 16:19:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet' in 'order clause' in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[23-Dec-2023 12:49:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[23-Dec-2023 12:49:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[23-Dec-2023 12:49:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[23-Dec-2023 12:50:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'phone asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[02-Jan-2024 10:09:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[02-Jan-2024 10:10:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[02-Jan-2024 10:10:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[02-Jan-2024 10:10:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category asc' at line 5 in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php:36
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_codes_data.php on line 36
+[03-Jan-2024 09:38:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc' at line 12 in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php:77
+Stack trace:
+#0 /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php(77): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ezystud/public_html/student/dashboard/ajax/fetch_data.php on line 77
+[08-Apr-2024 07:42:03 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:44:26 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:45:17 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:47:00 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:47:40 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:48:22 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[08-Apr-2024 07:59:45 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[10-Apr-2024 18:13:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[16-Apr-2024 13:10:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[16-Apr-2024 13:10:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[16-Apr-2024 16:56:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[16-Apr-2024 17:04:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[16-Apr-2024 21:38:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[17-Apr-2024 09:28:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[17-Apr-2024 09:33:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[03-May-2024 22:00:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[13-May-2024 15:27:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[13-May-2024 15:31:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[13-May-2024 15:31:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[13-May-2024 15:33:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[13-May-2024 15:38:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[15-May-2024 04:57:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[15-May-2024 11:50:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[15-May-2024 11:50:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[15-May-2024 11:52:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113
+[15-May-2024 11:56:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/optimass/public_html/ezy/student/dashboard/ajax/fetch_data.php on line 113

@@ -1,0 +1,174 @@
+.alphalogo img {
+    width: 350px;
+    display: block;
+    margin: 25px auto;
+}
+.header-logo img {
+    height: 90px;
+    object-fit: cover;
+}
+/* .table, th, td {
+  border: 1px solid black;
+border-collapse: collapse;
+} */
+ th, td {
+  padding: 15px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+} 
+
+.sidebar-menu-one .sidebar-menu-content{
+
+height: auto;
+}
+
+
+.login .container-fluid > .row {
+  height: 725px;;
+}
+.banner {
+  background: url("../img/login.webp");
+  background-size: cover;
+  position: relative;
+
+}
+.banner .black {
+  background: rgba(0,0,0,0.88);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.banner .black h1, .banner .black h3 {
+  font-family: 'Cairo', sans-serif;
+  color: #fff;
+  text-align: center
+}
+.banner .black h1 {
+  font-weight: bolder;
+  margin-top: 28%;
+  font-size: 54px;
+  margin-bottom: 45px
+}
+.banner .black h3 {
+  line-height: 1.8;
+  font-size: 28px;
+  width: 70%;
+  margin: 0 auto
+}
+.banner .black h3:last-child{
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 20px
+}
+.banner .black h3 a{
+  color: #fff;
+}
+
+footer {
+  background: #fff;
+  text-align: center;
+  width: 100%;
+  padding: 25px 0 !important;
+  position: relative;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.dashboard-content-one {
+  min-height: 655px
+}
+.sidebar-color {
+  height: 100%;
+}
+
+
+#DataTables_Table_0_wrapper {
+  overflow: initial !important;
+}
+.settingalert {
+  width: max-content;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.dashlogin {
+  min-height: 725px
+}
+.adminerror {
+  margin-top: 15px
+}
+/* .alert {
+  position: absolute;
+  top: 80px;
+  right: 25px;
+} */
+
+a.fw-btn-fill {
+  width: 150px !important;
+  padding: 8px 10px;
+  text-align: center;
+  height:  auto !important;
+}
+
+a.fw-btn-fill:hover {
+  color: #fff;
+}
+
+.addhomework .btn-fill-lg {
+  position: fixed;
+  bottom: 160px;
+  right: 70px;
+}
+.degree input {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  font-size: 18px;
+}
+.table-responsive {
+    height: 500px;
+    overflow: auto;
+}
+.image input {
+    height: auto !important;
+    padding: 12px  !important;
+}
+.qimg {
+    width: 40px;
+    height: 40px;
+}
+.oldimage img{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+.addimg {
+    display: block;
+    width: 50%;
+    margin-top: 15px;
+}
+.cimg {
+    width: 50%;
+    display: block;
+}
+.subject .item-content{
+  text-align: center;
+}
+.myicon i {
+    line-height: 85px !important;
+}
+.done{
+background-color: firebrick;
+  height: 20px;
+  width: 20px; 
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 20px;
+}
+.reopen {
+    margin-bottom: 10px;
+    height: 32px;
+    font-size: 16px;
+}
